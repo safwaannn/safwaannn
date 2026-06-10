@@ -91,42 +91,14 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 [Showtime Sawant](https://showtime-savant.vercel.app/)
-**Stack:** React • Local Storage • Fake API
+| Project | Description | Tech Stack | Links |
+| :------ | :---------- | :--------- | :---- |
+| **🥗 HealthyEats** | Wellness app for tracking daily water intake with personalized health recommendations and clear progress states. | `React` `TypeScript` `Tailwind CSS` | 🚧 *In Progress* |
+| **👟 Footwear Showcase** | A responsive showcase for browsing a footwear collection with a clean, modern product UI. | `React` `Tailwind CSS` `TypeScript` | [Live](FOOTWEAR_LIVE_URL) · [Code](FOOTWEAR_REPO_URL) |
+| **🎬 Showtime Sawant** | A movie schedule app for viewing show timings quickly, with grouped times and instant local persistence. | `React` `Local Storage` `Fake API` | [Live](https://showtime-savant.vercel.app/) · [Code](https://github.com/safwaannn/showtime-savant) |
+| **🍕 Fast React Pizza** | A pizza ordering simulator with menu browsing, cart management, and a multi-step checkout flow. | `React` `React Router` `Redux Toolkit` | [Live](https://fast-react-pizza-dun-kappa.vercel.app/) · [Code](https://github.com/safwaannn/fast-react-pizza) |
 
-- A movie schedule feature that helps users view available show timings quickly and easily.
-- Grouped movie times for effortless scanning with instant local persistence.
-- 🔗 [Live Demo](https://showtime-savant.vercel.app/) &nbsp;•&nbsp; [Source Code](https://github.com/safwaannn/showtime-savant)
-
-### 🍿 [UsePopcorn](https://use-popcorn-mu-nine.vercel.app/)
-**Stack:** React • Custom Hooks • OMDb API
-
-- A movie search & watchlist app — search films, view ratings, and store watched movies.
-- Custom hooks to organize API fetching with clean loading and error states.
-- 🔗 [Live Demo](https://use-popcorn-mu-nine.vercel.app/) &nbsp;•&nbsp; [Source Code](https://github.com/safwaannn/use-popcorn)
-
-### 🍕 [Fast React Pizza](https://fast-react-pizza-dun-kappa.vercel.app/)
-**Stack:** React • React Router • Redux Toolkit
-
-- A pizza ordering simulator with menu browsing, cart management, and a multi-step checkout flow.
-- Used React Router and RTK to keep navigation and cart data predictable.
-- 🔗 [Live Demo](https://fast-react-pizza-dun-kappa.vercel.app/) &nbsp;•&nbsp; [Source Code](https://github.com/safwaannn/fast-react-pizza)
-
-### 🗺️ [Mapty — GeoLocation Tracker](https://mapty-goelocation.vercel.app/)
-**Stack:** JavaScript • Leaflet.js • Local Storage
-
-- A geolocation workout tracker that logs running and cycling activities on an interactive map.
-- Connected browser geolocation, map clicks, and forms with a structured, persistent workout model.
-- 🔗 [Live Demo](https://mapty-goelocation.vercel.app/) &nbsp;•&nbsp; [Source Code](https://github.com/safwaannn/mapty-geolocation)
-
-### 🧠 [React Quiz App](https://react-quiz-drab-two.vercel.app/)
-**Stack:** React • Custom Hooks
-
-- A dynamic quiz app where users answer questions, track scores, and move through smooth UI states.
-- Modeled quiz state as predictable, isolated flows with explicit timer and restart handling.
-- 🔗 [Live Demo](https://react-quiz-drab-two.vercel.app/) &nbsp;•&nbsp; [Source Code](https://github.com/safwaannn/react-quiz)
-
-> 💡 More live builds — **HealthyEats** (wellness tracker), **Sweet Slack** (chat UI), **Bank List**, and others — are on my [GitHub profile »](https://github.com/safwaannn)
+> 💡 More builds — **UsePopcorn**, **Mapty**, **React Quiz**, **Sweet Slack**, and others — are on my [GitHub profile »](https://github.com/safwaannn)
 
 ---
 
@@ -142,17 +114,21 @@ Relevant coursework: Data Structures, DBMS & SQL, Web Development, OOP, Operatin
 
 ## 📊 GitHub Insights
 
+<!-- Row 1 — Stats + Most Used Languages, side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safwaannn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwaannn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=safwaannn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Safwan Ghare's GitHub Stats" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwaannn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" height="180"/>
 </p>
 
+<!-- Row 2 — Streak: total contributions / current streak / longest streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safwaannn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safwaannn&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
+<!-- Row 3 — Full-width contribution graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safwaannn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safwaannn&theme=tokyo-night&hide_border=true&area=true&custom_title=Safwan%20Ghare's%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
